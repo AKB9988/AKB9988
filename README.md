@@ -16,6 +16,9 @@ I believe in learning by building — not just following tutorials.
 
 ## 🚀 Projects
 
+- **GoldGuild** — Gamified personal finance tracker built with Spring Boot.
+  XP system, streaks, badges, leaderboard — making budgeting feel like a game.
+  REST API with JWT auth, JPA, MySQL, scheduled jobs.
 - **JoSSA Simulator** — Monte Carlo + Gale-Shapley engine predicting
   college admission probability using 8 years of real JOSAA data
 - **AlertX** — Real-time crash detection Android app with peer-to-peer
@@ -26,9 +29,12 @@ I believe in learning by building — not just following tutorials.
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
